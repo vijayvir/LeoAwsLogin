@@ -1,0 +1,3 @@
+
+pod 'AWSCore'
+pod 'AWSCognitoIdentityProvider'
